@@ -1,2 +1,2 @@
 # textovy_analyzator
-Halo 31
+Halo 22313
